@@ -17,8 +17,11 @@ This is the list of the routes that are in the Main Route:
 /api/v1.0/
 /api/v1.0//
 
-For check the last two is necessary complete with a start date and end date  or just a start date as parameter. i.e. 
+For check the last two routes is necessary complete with a start date and end date  or just a start date as parameter.
+for example: 
+
 http://127.0.0.1:5000/api/v1.0/2011-02-28/2011-03-05
+
 http://127.0.0.1:5000/api/v1.0/2011-02-28
 
 
