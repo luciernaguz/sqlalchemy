@@ -12,9 +12,13 @@ Even it was the most hard part, It was interesting doing all the routes and defÂ
 This is the list of the routes that are in the Main Route:
 
 /api/v1.0/precipitation
+
 /api/v1.0/stations
+
 /api/v1.0/tobs
+
 /api/v1.0/
+
 /api/v1.0//
 
 For check the last two routes is necessary complete with a start date and end date  or just a start date as parameter.
