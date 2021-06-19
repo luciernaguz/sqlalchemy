@@ -1,5 +1,5 @@
 # *sqlalchemy*
-# SqlAlchemy  
+# SqlAlchemy  Climate Analysis and Exploration & Climate App
 
 **It was a very interesting challenge, but unfortunately I couldnÂ´t complete all the Bonus part.**
 
@@ -14,7 +14,7 @@ Even it was the most hard part, It was interesting doing all the routes and defÂ
 
 ![Trip Temperature](/sqlalchemy-challenge/Images/Trip_Avg_Temperature.png)
 
-[Yearly Precipitation](sqlalchemy-challenge/Images/Yearly_Precipitation.png)
+![Yearly Precipitation](sqlalchemy-challenge/Images/Yearly_Precipitation.png)
 
 This is the list of the routes that are in the Main Route:
 
