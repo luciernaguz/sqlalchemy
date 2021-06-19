@@ -1,5 +1,5 @@
-# *sqlalchemy-challenge*
-# SqlAlchemy Challenge 
+# *sqlalchemy*
+# SqlAlchemy  
 
 **It was a very interesting challenge, but unfortunately I couldn´t complete all the Bonus part.**
 
