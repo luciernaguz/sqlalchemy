@@ -9,6 +9,8 @@ This part is complete in the Jupyter Notebook *"climate_starter.ipynb"* it was i
 # Step 2 - Climate App
 Even it was the most hard part, It was interesting doing all the routes and def´s in *"app.py"*, even look simple it takes me a lot of time to complete and also return to the knowledge before about JSON. 
 
+
+![Temperature vs Latitude](WeatherPy/Images/LatitudevsTemperature.png)
 This is the list of the routes that are in the Main Route:
 
 /api/v1.0/precipitation
