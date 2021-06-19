@@ -10,11 +10,11 @@ This part is complete in the Jupyter Notebook *"climate_starter.ipynb"* it was i
 Even it was the most hard part, It was interesting doing all the routes and def´s in *"app.py"*, even look simple it takes me a lot of time to complete and also return to the knowledge before about JSON. 
 
 
-![Temperature Observation](/sqlalchemy-challenge/Images/Temperature_observation.png)
+![Temperature Observation](/Images/Temperature_observation.png)
 
-![Trip Temperature](/sqlalchemy-challenge/Images/Trip_Avg_Temperature.png)
+![Trip Temperature](/Images/Trip_Avg_Temperature.png)
 
-![Yearly Precipitation](sqlalchemy-challenge/Images/Yearly_Precipitation.png)
+![Yearly Precipitation](/Images/Yearly_Precipitation.png)
 
 This is the list of the routes that are in the Main Route:
 
